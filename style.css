@@ -1,0 +1,51 @@
+/*--------estimate time   10 min----------*/
+
+.wrapper {
+    width: 650px;
+    margin: 0 auto;
+    font-size: 11pt;
+    font-family: 'Times New Roman', Times
+}
+
+/*----------------------------------------*/
+
+h1 {
+    text-align: center;
+    font-size: 190%;
+}
+
+em {
+    display: block;
+    text-align: center;
+    font-size: 12pt
+}
+
+strong {
+    display: block;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 12pt;
+
+}
+
+.align-center {
+    text-align: center;
+}
+
+.align-right {
+    text-align: right;
+}
+
+.pic-1 {
+    float: left;
+    margin-right: 15px
+}
+
+.pic-2 {
+    display: block;
+    margin: auto;
+}
+
+.mrgn-btm {
+    margin-bottom: 30px;
+}
